@@ -9,7 +9,12 @@ Link to the original source: ``` http://freebiesxpress.com/gallery/treehouse-fre
 > ### Credits
 
 >Pixeden for the iPad Mockup
+
 >Amit Jakhu for the beautiful outline icons
+
 >Gemicon for the awesome icons
+
 >Michael Meltser for the photo “Uku”
+
 >Nico Socha for the photo on “Our Awesome Clients”
+
