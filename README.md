@@ -18,3 +18,10 @@ Link to the original source: ``` http://freebiesxpress.com/gallery/treehouse-fre
 
 >Nico Socha for the photo on “Our Awesome Clients”
 
+### Exported project
+<p float="left">
+  <img src="/images/image.png" width="200" />
+</p>
+
+## Live preview of the site
+(https://neopirx.github.io/bootstrap_website1/)
