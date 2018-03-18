@@ -24,4 +24,4 @@ Link to the original source: ``` http://freebiesxpress.com/gallery/treehouse-fre
 </p>
 
 ## Live preview of the site
-(https://neopirx.github.io/bootstrap_website1/)
+https://neopirx.github.io/bootstrap_website1/
