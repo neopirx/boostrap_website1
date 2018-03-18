@@ -5,3 +5,11 @@ Boostrap website based on free photoshop website design. Site is not 100% accura
 
 Link to the original source: ``` http://freebiesxpress.com/gallery/treehouse-free-psd-web-template/ ```
 > Treehouse is a free PSD web template that was designed with agencies and small companies in mind. This is bright and spacious design perfect for people or startup companies looking to showcase their apps or other projects.
+
+> ### Credits
+
+    >Pixeden for the iPad Mockup
+    >Amit Jakhu for the beautiful outline icons
+    >Gemicon for the awesome icons
+    >Michael Meltser for the photo “Uku”
+    >Nico Socha for the photo on “Our Awesome Clients”
