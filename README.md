@@ -20,7 +20,7 @@ Link to the original source: ``` http://freebiesxpress.com/gallery/treehouse-fre
 
 ### Exported project
 <p float="left">
-  <img src="/images/image.png" width="200" />
+  <img src="/images/image.jpg" width="200" />
 </p>
 
 ## Live preview of the site
